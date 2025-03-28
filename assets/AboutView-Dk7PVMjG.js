@@ -1,0 +1,1 @@
+import{_ as s,c as n,a as e,o}from"./index-Cv8WKxMW.js";const r={},a={class:"about"};function l(c,t){return o(),n("div",a,t[0]||(t[0]=[e("h1",null,"There is nothing here.",-1),e("br",null,null,-1),e("h3",null,"Just testing github pages.",-1)]))}const i=s(r,[["render",l]]);export{i as default};
