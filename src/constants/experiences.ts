@@ -24,66 +24,66 @@ export const xpList:experience[] = [
       {
         name: 'Front-End developer for Glife Miniprograms',
       },
-      {
-        name: 'Projects worked on:',
-        additional_details: [
-          {
-            name: 'Upstream',
-            description: 'Gcash video streaming Miniprogram'
-          },
-          {
-            name: 'Bench',
-            description: ' Ecommerce Gcash miniprogram'
-          },
-        ]
-      },
+      // {
+      //   name: 'Projects worked on:',
+      //   additional_details: [
+      //     {
+      //       name: 'Upstream',
+      //       description: 'Gcash video streaming Miniprogram'
+      //     },
+      //     {
+      //       name: 'Bench',
+      //       description: ' Ecommerce Gcash miniprogram'
+      //     },
+      //   ]
+      // },
       {
         name: 'Front-End developer for Webtools and Ecommerce websites using Vue.js',
       },
-      {
-        name: 'Projects worked on:',
-        additional_details: [
-          {
-            name: 'Sim Bulk Registration',
-            description: 'Gcash video streaming Miniprogram'
-          },
-          {
-            name: 'Novadeci (Insurance, Election, Loans',
-            description: 'super app webtool for Novadeci(utilizing micro frontend)'
-          },
-          {
-            name: 'Rex Lcms',
-            description: 'learning management system for rex education'
-          },
-        ]
-      },
+      // {
+      //   name: 'Projects worked on:',
+      //   additional_details: [
+      //     {
+      //       name: 'Sim Bulk Registration',
+      //       description: 'Sim Registration webtool'
+      //     },
+      //     {
+      //       name: 'Novadeci (Insurance, Election, Loans',
+      //       description: 'super app webtool for Novadeci(utilizing micro frontend)'
+      //     },
+      //     {
+      //       name: 'Rex Lcms',
+      //       description: 'learning management system for rex education'
+      //     },
+      //   ]
+      // },
       {
         name: 'Level 3 tech support for Front-End side of deployed projects using Vue.js',
       },
       {
         name: 'Projects supported:',
-        additional_details: [
-          {
-            name: 'Haku(mcdo Mcdelivery)',
-            description: 'Gcash video streaming Miniprogram'
-          },
-          {
-            name: 'Rex Estore',
-            description: 'Ecommerce site for rex education'
-          },
-          {
-            name: 'Rex Lcms',
-            description: 'learning management system for rex education'
-          },
-          {
-            name: 'UPA FE',
-            description: 'internal webtool for unilab'
-          },
-          {
-            name: 'Gardenia DMS',
-            description: 'internal webtool for Gardenia DMS(utilizes on-Prem deployment)'
-          },
-        ]
+        // additional_details: [
+        //   {
+        //     name: 'Haku(mcdo Mcdelivery)',
+        //     description: 'Gcash video streaming Miniprogram'
+        //   },
+        //   {
+        //     name: 'Rex Estore',
+        //     description: 'Ecommerce site for rex education'
+        //   },
+        //   {
+        //     name: 'Rex Lcms',
+        //     description: 'learning management system for rex education'
+        //   },
+        //   {
+        //     name: 'UPA FE',
+        //     description: 'internal webtool for unilab'
+        //   },
+        //   {
+        //     name: 'Gardenia DMS',
+        //     description: 'internal webtool for Gardenia DMS(utilizes on-Prem deployment)'
+        //   },
+        // ]
       },
     ]
   },
